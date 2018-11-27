@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <color name="splashBackground">#ffff</color>
+  <color name="primaryColor">#ffff</color>
+  <color name="colorSecondary">#8fc4ee</color>
+  <color name="colorAccent">#4269d2</color>
+  <color name="colorPrimaryDark">#000</color>
+  <color name="statusBarColor">#000</color>
+
+  <color name="primaryDarkColor">#000</color>
+  <color name="primaryLightColor">#000</color>
+
+
+  
+
+</resources>
